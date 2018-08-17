@@ -1,4 +1,4 @@
-const { get, set, defaultsDeep } = require("lodash");
+const { has, get, set, defaultsDeep } = require("lodash");
 const debug = require("debug")("passport-compose");
 
 const defaults = {
