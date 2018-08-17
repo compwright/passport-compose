@@ -5,7 +5,7 @@ const defaults = {
   sessionStageField: "passport.stage",
   sessionLoginRedirectField: "redirectTo",
   successRedirect: "/",
-  successReturnToOrRedirect: "/",
+  successReturnToOrRedirect: undefined,
   failureRedirect: "/login"
 };
 
