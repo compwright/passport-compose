@@ -1,6 +1,6 @@
 {
   "name": "passport-compose",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Utilities for chaining multiple Passport authentication middlewares",
   "main": "index.js",
   "scripts": {
