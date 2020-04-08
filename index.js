@@ -9,7 +9,7 @@ const defaults = {
   sessionLoginRedirectField: "redirectTo",
   successRedirect: "/",
   successReturnToOrRedirect: undefined,
-  failureRedirect: "/login"
+  failureRedirect: "/login",
 };
 
 module.exports = (options = {}) => {
@@ -93,6 +93,6 @@ module.exports = (options = {}) => {
     compose,
     getAuthenticationStage,
     isAuthenticated: () => isAuthenticated,
-    loginRedirect: () => loginRedirect
+    loginRedirect: () => loginRedirect,
   };
 };
