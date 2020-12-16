@@ -24,13 +24,13 @@
   },
   "homepage": "https://github.com/compwright/passport-compose#readme",
   "dependencies": {
-    "debug": "^4.1.1",
-    "lodash": "^4.17.15"
+    "debug": "^4.3.1",
+    "lodash": "^4.17.20"
   },
   "devDependencies": {
-    "eslint": "^6.8.0",
-    "eslint-config-prettier": "^6.10.0",
-    "eslint-plugin-prettier": "^3.1.2",
-    "prettier": "^2.0.4"
+    "eslint": "^7.15.0",
+    "eslint-config-prettier": "^7.0.0",
+    "eslint-plugin-prettier": "^3.3.0",
+    "prettier": "^2.2.1"
   }
 }

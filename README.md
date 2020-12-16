@@ -1,5 +1,9 @@
 # passport-compose
 
+[![Dependency Status](https://img.shields.io/david/compwright/passport-compose.svg?style=flat-square)](https://david-dm.org/compwright/passport-compose)
+[![Download Status](https://img.shields.io/npm/dm/passport-compose.svg?style=flat-square)](https://www.npmjs.com/package/passport-compose)
+[![Sponsor on GitHub](https://img.shields.io/static/v1?label=Sponsor&message=❤&logo=GitHub&link=https://github.com/sponsors/compwright)](https://github.com/sponsors/compwright)
+
 Utilities for chaining multiple Passport authentication middlewares
 
 ## Use case
